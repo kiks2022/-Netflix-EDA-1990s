@@ -79,29 +79,15 @@ The dataset `netflix_data.csv` contains information about movies and TV shows av
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/netflix-eda-1990s.git
-```
-
-2. Install dependencies:
-```bash
-pip install pandas matplotlib
-```
-
-3. Open the notebook:
-```bash
-jupyter notebook netflix_1990s_eda.ipynb
 ```
 
 ---
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Adekoya Kikelomo**  
+[GitHub](https://github.com/kiks2022) · [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kikelomo-adekoya/))
 
 ---
 
