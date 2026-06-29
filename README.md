@@ -79,11 +79,6 @@ The dataset `netflix_data.csv` contains information about movies and TV shows av
 
 ---
 
-
-```
-
----
-
 ## 👤 Author
 
 **Adekoya Kikelomo**  
