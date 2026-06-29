@@ -82,7 +82,7 @@ The dataset `netflix_data.csv` contains information about movies and TV shows av
 ## 👤 Author
 
 **Adekoya Kikelomo**  
-[GitHub](https://github.com/kiks2022) · [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kikelomo-adekoya/))
+[GitHub](https://github.com/kiks2022) · [LinkedIn](https://www.linkedin.com/in/kikelomo-adekoya/))
 
 ---
 
